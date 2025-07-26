@@ -1,6 +1,3 @@
-{% extends "Dashboard/base.html" %}
-{% load django_bootstrap5 %}
-
 # SaaS Billing System
 
 This project is a SaaS (Software as a Service) billing system built with Django. It provides functionalities to manage clients, products, campaigns, payments, invoices, and reports through a web-based dashboard interface.
