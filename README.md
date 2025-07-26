@@ -27,7 +27,7 @@ This project is a SaaS (Software as a Service) billing system built with Django.
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/coolguy-sree/saas-billing.git
    cd saas-billing-system-saas
    ```
 
